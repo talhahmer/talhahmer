@@ -7,6 +7,8 @@
 - 👨‍💻 All of my projects are available at [https://talhaahmer.netlify.app/](https://talhaahmer.netlify.app/)
 
 - 💬 Ask me about **ReactJs**
+  
+- 🌱 I’m currently learning **Node.js**
 
 - 📫 How to reach me **ahmertalha9@gmail.com**
 
