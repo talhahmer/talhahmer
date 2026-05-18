@@ -12,6 +12,8 @@ Building scalable full-stack web applications with modern UI & clean backend arc
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
+<br>
+
 - 🔭 I’m currently working on **SONT & PVSIS**
 
 - 👨‍💻 Portfolio:  
